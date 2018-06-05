@@ -1,0 +1,595 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="images/icons/favicons/fav_logo.ico@6" />
+
+<link rel="apple-touch-icon" href="images/safari_60.png@1">
+<link rel="apple-touch-icon" sizes="76x76" href="images/safari_76.png@1">
+<link rel="apple-touch-icon" sizes="120x120" href="images/safari_120.png@1">
+<link rel="apple-touch-icon" sizes="152x152" href="images/safari_152.png@1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="" />
+
+
+<title>Developerom | VK</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=badbrowser.php"></noscript>
+
+<link rel="stylesheet" type="text/css" href="css/al/common.css@34760342997" /><link rel="stylesheet" type="text/css" href="css/al/fonts_cnt.css@1318650823" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 0,
+  intnat: '1' ? true : false,
+  host: 'vk.com',
+  lang: 15,
+  rtl: parseInt('') || 0,
+  version: 5866419447492,
+  stDomains: 0,
+  stDomain: '',
+  stExcludedMasks: ["loader_nav","lang"],
+  zero: false,
+  contlen: 18098,
+  loginscheme: 'https',
+  ip_h: '4d412941800ee3a2e7',
+  navPrefix: 'default.htm',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1528224515,
+  tz: 10800,
+  pd: 0,
+  css_dir: '',
+  vcost: 7,
+  time: [2018, 6, 5, 21, 48, 35],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: '',
+  audioAdsConfig: {"_":"_"},
+  longViewTestGroup: "every_view",
+  cma: 1,
+  postNoEncode: 0,
+  lpConfig: {
+    enabled: 0,
+    key: '',
+    ts: 0,
+    url: '',
+    lpstat: 0
+  },
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: 'unauth'
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'cmodules/web/common_web.js' : {v: 3},
+  'common.css' : {v: 34760342997},'fonts_cnt.css' : {v: 1318650823}
+  ,'lang15_0.js': {v: 25470408},'dev.css':{v:34998210606},'dev.js':{v:3510788917},'wk.js':{v:2226505193},'wk.css':{v:21076923029},'wk_editor.js':{v:9472853587},'wk_editor.css':{v:21880462394},'ui_controls.js':{v:722858875},'ui_controls.css':{v:16390758369},'cookies_policy.css':{v:1},'time_spent.js':{v:732637085},'cmodules/web/page_layout.js':{v:1172409392},'ui_common.js':{v:1617946438},'ui_common.css':{v:16328216615},'audioplayer.js':{v:5900725812},'cmodules/web/likes.js':{v:1},'cmodules/web/grip.js':{v:4164501492}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="css/al/dev.css@34998210606"></link><link type="text/css" rel="stylesheet" href="css/al/wk.css@21076923029"></link><link type="text/css" rel="stylesheet" href="css/al/wk_editor.css@21880462394"></link><link type="text/css" rel="stylesheet" href="css/ui_controls.css@16390758369"></link><link type="text/css" rel="stylesheet" href="css/al/cookies_policy.css@1"></link><link type="text/css" rel="stylesheet" href="css/al/ui_common.css@16328216615"></link><script type="text/javascript" src="js/loader_nav5866419447492_15.js"></script><script type="text/javascript" src="js/cmodules/web/common_web.js@3_68436924118"></script><script type="text/javascript" src="js/lang15_0.js@25470408"></script><script type="text/javascript" src="js/lib/px.js@ch=1"></script><script type="text/javascript" src="js/lib/px.js@ch=2"></script><meta name="msApplication-ID" content="C6965DD5.VK" /><meta name="msApplication-PackageFamilyName" content="C6965DD5.VK_v422avzh127ra" /><script type="text/javascript" src="js/al/dev.js@3510788917"></script><script type="text/javascript" src="js/al/wk.js@2226505193"></script><script type="text/javascript" src="js/cmodules/web/wk_editor.js@9472853587"></script><script type="text/javascript" src="js/lib/ui_controls.js@722858875"></script><script type="text/javascript" src="js/al/time_spent.js@732637085"></script><script type="text/javascript" src="js/cmodules/web/page_layout.js@1172409392"></script><script type="text/javascript" src="js/al/ui_common.js@1617946438"></script><script type="text/javascript" src="js/cmodules/web/audioplayer.js@5900725812"></script><script type="text/javascript" src="js/cmodules/web/likes.js@1"></script><script type="text/javascript" src="js/cmodules/web/grip.js@4164501492"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="dev dev_main_page no_wrap_cont main">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">window.domStarted && domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="default.htm" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head1 p_head_l15" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="default.htm" aria-label="Na g&#322;&#243;wn&#261;" accesskey="1" ><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Wyszukiwanie" aria-label="Wyszukiwanie" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><span id="top_audio_layer_place"></span></div>
+  <div class="head_nav_item fl_r"><a class="top_nav_link" href="default.htm" id="top_switch_lang" style="display: none;" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '8a1d01f6029d9717b4' }); return false;" onmousedown="tnActive(this)">
+  Switch to English
+</a><a class="top_nav_link" href="join" id="top_reg_link" style="" onclick="return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)" onmousedown="tnActive(this)">
+  rejestracja
+</a></div>
+  <div class="head_nav_item_player"></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="side_bar fl_l " style="display: none">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <div id="quick_login" class="quick_login">
+  <form method="POST" name="login" id="quick_login_form" action="https://login.vk.com/?act=login">
+    <input type="hidden" name="act" value="login" />
+    <input type="hidden" name="role" value="al_frame" />
+    <input type="hidden" name="expire" id="quick_expire_input" value="" />
+    <input type="hidden" name="recaptcha" id="quick_recaptcha" value="" />
+    <input type="hidden" name="captcha_sid" id="quick_captcha_sid" value="" />
+    <input type="hidden" name="captcha_key" id="quick_captcha_key" value="" />
+    <input type="hidden" name="_origin" value="https://vk.com" />
+    <input type="hidden" name="ip_h" value="4d412941800ee3a2e7" />
+    <input type="hidden" name="lg_h" value="be352decfff7cab6aa" />
+    <div class="label">Telefon lub email</div>
+    <div class="labeled"><input type="text" name="email" class="dark" id="quick_email" /></div>
+    <div class="label">Has&#322;o</div>
+    <div class="labeled"><input type="password" name="pass" class="dark" id="quick_pass" onkeyup="toggle('quick_expire', !!this.value);toggle('quick_forgot', !this.value)" /></div>
+    <input type="submit" class="submit" />
+  </form>
+  <button class="quick_login_button flat_button button_wide" id="quick_login_button">Wejd&#378;</button>
+  <button class="quick_reg_button flat_button button_wide" id="quick_reg_button" style="display: none" onclick="top.showBox('join.php', {act: 'box', from: nav.strLoc})">Rejestracja</button>
+  <div class="clear forgot"><div class="checkbox" id="quick_expire" onclick="checkbox(this);ge('quick_expire_input').value=isChecked(this)?1:'';">NIE zapami&#281;tuj has&#322;a</div><a id="quick_forgot" class="quick_forgot" href="restore" target="_top">Zapomnia&#322;e&#347; has&#322;o?</a></div>
+</div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 960px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="dev_page_wrap3">
+  <div id="dev_top_nav_wrap">
+    <div id="dev_top_nav" class="clear_fix" style="width: 960px">
+      <div class="dev_home_wrap fl_l">
+        <a class="dev_home_link fl_l" href="dev">Developers</a>
+      </div>
+      <a id="dev_top_products" class="dev_top_link  fl_l" href="dev/products">Produkty</a>
+      <a id="dev_top_manuals" class="dev_top_link  fl_l" href="dev/manuals">Dokumentacja</a>
+      <a id="dev_top_apps" class="dev_top_link  fl_l" href="apps@act=manage">Moje aplikacje</a>
+      <a id="dev_top_help" class="dev_top_link  fl_l" href="dev/help">Pomoc techniczna</a>
+      
+      <div class="dev_top_input_wrap fl_r">
+        <input class="dev_top_input text" type="text" id="dev_top_input" autocomplete="off" placeholder="Wyszukiwanie" onkeydown="return Dev.onSearchChange(this, event);" onblur="Dev.onSearchBlur()" onfocus="return Dev.onSearchChange(this, event);" />
+        <div id="dev_search_suggest">
+          <div id="dev_search_suggest_list">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="dev_page_wrap2" class="fl_r">
+    <div id="dev_page_wrap1">
+      <div id="dev_page_wrap">
+        <div class="dev_main_featured dev_main_featured_banners_wrap">
+  <div class="dev_main_featured_banners">
+    <div class="dev_main_featured_banners_anim_helper"><div class="dev_main_featured_banner"></div></div>
+    <div class="dev_main_featured_banners_bg"></div>
+    <div class="dev_main_featured_banners_buttons"></div>
+    <div class="dev_main_featured_banners_arrow dev_main_featured_banners_arrow_next" onclick="Dev.mainPageSliderNext()">
+      <div class="dev_main_featured_banners_arrow_icon"></div>
+    </div>
+    <div class="dev_main_featured_banners_arrow dev_main_featured_banners_arrow_prev" onclick="Dev.mainPageSliderPrev()">
+      <div class="dev_main_featured_banners_arrow_icon"></div>
+    </div>
+  </div>
+</div>
+<div class="dev_main_wrap">
+  <div class="dev_main_featured clear_fix">
+    <div class="dev_main_featured_products clear_fix">
+      <a href="dev/callback_api" class="dev_main_featured_product">
+        <div class="dev_main_featured_product_icon dev_main_featured_product_icon_callback_api"></div>
+        <div class="dev_main_featured_product_title">Callback API </div>
+        <div class="dev_main_featured_product_description">Praca z wydarzeniami w Twojej spo&#322;eczno&#347;ci</div>
+      </a>
+      <a href="dev/CommunityMessages" class="dev_main_featured_product">
+        <div class="dev_main_featured_product_icon dev_main_featured_product_icon_widget_community_messages"></div>
+        <div class="dev_main_featured_product_title">Widget wiadomo&#347;ci w spo&#322;eczno&#347;ci </div>
+        <div class="dev_main_featured_product_description">Widget do &#322;&#261;czenia si&#281; spo&#322;eczno&#347;ci poprzez VK.com</div>
+      </a>
+      <a href="dev/goods" class="dev_main_featured_product">
+        <div class="dev_main_featured_product_icon dev_main_featured_product_icon_market"></div>
+        <div class="dev_main_featured_product_title">Towary </div>
+        <div class="dev_main_featured_product_description">API dla sklepu w spo&#322;eczno&#347;ci</div>
+      </a>
+      <a href="dev/Login" class="dev_main_featured_product dev_main_featured_product_icon_widget_login">
+        <div class="dev_main_featured_product_icon dev_main_featured_product_icon_widget_login"></div>
+        <div class="dev_main_featured_product_title">Widget <br>autoryzacji</div>
+        <div class="dev_main_featured_product_description">Wej&#347;cie na Twoj&#261; stron&#281; za pomoc&#261; konta VK.com</div>
+      </a>
+      <a href="dev/Share" class="dev_main_featured_product">
+        <div class="dev_main_featured_product_icon dev_main_featured_product_icon_share">
+        </div>
+        <div class="dev_main_featured_product_title">Publikacja <br>link&#243;w</div>
+        <div class="dev_main_featured_product_description">Widget do dystrybucji zawarto&#347;ci</div>
+      </a>
+    </div>
+    <div class="dev_main_featured_button_wrapper">
+      <a href="dev/products"><button class="flat_button dev_main_featured_button">Wy&#347;wietl wszystko</button></a>
+    </div>
+    <div class="dev_main_sep"></div>
+  </div>
+  <div class="dev_main_content clear_fix">
+    <div class="dev_main_content_header" role="heading">Pocz&#261;tek pracy</div>
+    <div class="dev_main_content_body">
+      <div class="dev_main_platforms">
+        <div class="dev_main_platforms_list">
+          <a href="dev/ios_how_to_start" class="dev_main_platform">
+            <div class="dev_main_platform_icon dev_main_platform_icon_ios"></div>
+            <div class="dev_main_platform_title">iOS</div>
+          </a>
+          <a href="dev/android_how_to_start" class="dev_main_platform">
+            <div class="dev_main_platform_icon dev_main_platform_icon_android"></div>
+            <div class="dev_main_platform_title">Android</div>
+          </a>
+          <a href="dev/wp_how_to_start" class="dev_main_platform">
+            <div class="dev_main_platform_icon dev_main_platform_icon_wp"></div>
+            <div class="dev_main_platform_title">Windows Phone</div>
+          </a>
+          <a href="dev/vk_how_to_start" class="dev_main_platform">
+            <div class="dev_main_platform_icon dev_main_platform_icon_embedded"></div>
+            <div class="dev_main_platform_title">Aplikacja wbudowana</div>
+          </a>
+          <a href="dev/web_how_to_start" class="dev_main_platform">
+            <div class="dev_main_platform_icon dev_main_platform_icon_web"></div>
+            <div class="dev_main_platform_title">Web</div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="dev_main_sep"></div>
+    <div class="dev_main_content_header clear_fix" role="heading">
+      <div class="fl_l">Nowo&#347;ci platformy</div>
+      <a class="dev_main_blog_post_title dev_main_blog_post_more fl_r" href="dev/blog">Wszystkie nowo&#347;ci</a>
+    </div>
+    <div class="dev_main_blog_posts clear_fix">
+  <div class="dev_main_blog_post fl_l">
+  <a href="dev/blog/php-sdk-and-bots-longpoll"><div class="dev_main_blog_post_cover" style="background-image: url(../https@sun9-8.userapi.com/c840320/v840320146/6a9be/crum3Gib28g.jpg);"></div></a>
+  <div class="dev_main_blog_post_title"><a href="dev/blog/php-sdk-and-bots-longpoll">Bots Long Poll API и PHP SDK</a></div>
+  <div class="dev_main_blog_post_date">28 lutego 2018</div>
+</div><div class="dev_main_blog_post fl_l">
+  <a href="dev/blog/stories-api"><div class="dev_main_blog_post_cover" style="background-image: url(../https@pp.userapi.com/c834100/v834100955/be2c9/ndrZq80OhZk.jpg);"></div></a>
+  <div class="dev_main_blog_post_title"><a href="dev/blog/stories-api">Stories API</a></div>
+  <div class="dev_main_blog_post_date">20 lutego 2018</div>
+</div><div class="dev_main_blog_post fl_l">
+  <a href="dev/blog/direct-games"><div class="dev_main_blog_post_cover" style="background-image: url(../https@pp.userapi.com/c638328/v638328449/559f6/KfeDfsLhbIA.jpg);"></div></a>
+  <div class="dev_main_blog_post_title"><a href="dev/blog/direct-games">HTML5 Games on the VK Platform</a></div>
+  <div class="dev_main_blog_post_date">17 sierpnia 2017</div>
+</div>
+</div>
+    <div class="dev_main_content_breaker"></div>
+    <div class="dev_main_footer">
+      <div class="dev_main_footer">
+        <div class="dev_main_footer_section_list clear_fix">
+          <div class="dev_main_footer_section dev_main_footer_section_product fl_l">
+            <div class="dev_main_footer_section_title">Produkty</div>
+            <ul class="dev_main_footer_section_links">
+              <li class="dev_main_footer_section_link"><a href="dev/games">Gry</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/widgets_for_sites">Widgety dla stron</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/bizmessages"">Wiadomo&#347;ci spo&#322;eczno&#347;ci</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/callback_api">Callback API</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/goods">Towary</a></li>
+            </ul>
+          </div>
+          <div class="dev_main_footer_section fl_l">
+            <div class="dev_main_footer_section_title">SDK</div>
+            <ul class="dev_main_footer_section_links">
+              <li class="dev_main_footer_section_link"><a href="dev/ios_sdk">iOS SDK</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/android_sdk">Android SDK</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/wp_sdk">Windows Phone SDK</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/Flash_SDK">Flash SDK</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/Javascript_SDK">Javascript SDK</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/Java_SDK">Java SDK</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/PHP_SDK">PHP SDK</a></li>
+            </ul>
+          </div>
+          <div class="dev_main_footer_section fl_l">
+            <div class="dev_main_footer_section_title">Dokumentacja</div>
+            <ul class="dev_main_footer_section_links">
+              <li class="dev_main_footer_section_link"><a href="dev/first_guide">Poznanie API</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/versions">Wersje API</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/methods">Metody API</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/objects">Rodzaje danych</a></li>
+            </ul>
+          </div>
+           <div class="dev_main_footer_section fl_l">
+            <div class="dev_main_footer_section_title">Pomoc</div>
+            <ul class="dev_main_footer_section_links">
+              <li class="dev_main_footer_section_link"><a href="dev/roadmap">Roadmap</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/feedback">feedback</a></li>
+              <li class="dev_main_footer_section_link"><a href="dev/health">Status platformy</a></li>
+              <li class="dev_main_footer_section_link"><a href="bugs">Bug tracker</a></li>
+              <li class="dev_main_footer_section_link"><a href="apiclub">Oficjalna spo&#322;eczno&#347;&#263;</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="dev_main_footer_rules clear_fix">
+          <ul class="dev_main_footer_rules_links fl_l">
+            <li class="dev_main_footer_rules_link"><a href="dev/rules">Zasady platformy</a></li>
+            <li class="dev_main_footer_rules_link"><a href="dev/partnership">Model partnerski</a></li>
+          </ul>
+          <div class="dev_main_footer_lang fl_r">J&#281;zyk:<a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 15, hash: '8a1d01f6029d9717b4'})">Polski</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '8a1d01f6029d9717b4'})">English</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 0, hash: '8a1d01f6029d9717b4'})">Русский</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 1, hash: '8a1d01f6029d9717b4'})">Українська</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">wszystkie j&#281;zyki »</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+    </div>
+    
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap fl_r" style="width: 960px;"><div class="footer_nav" id="bottom_nav">
+  <div class="footer_copy fl_l"><a href="about">VK</a> &copy; 2018</div>
+  <div class="footer_lang fl_r">J&#281;zyk:<a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 15, hash: '8a1d01f6029d9717b4'})">Polski</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '8a1d01f6029d9717b4'})">English</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 0, hash: '8a1d01f6029d9717b4'})">Русский</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 1, hash: '8a1d01f6029d9717b4'})">Українська</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">wszystkie j&#281;zyki »</a></div>
+  <div class="footer_links">
+    <a class="bnav_a" href="about">o firmie</a>
+    <a class="bnav_a" href="support@act=home" style="display: none;">Pomoc</a>
+    <a class="bnav_a" href="terms">Regulamin</a>
+    <a class="bnav_a" href="ads" style="display: none;">Reklama</a>
+    
+    <a class="bnav_a" href="dev">Developerzy</a>
+    <a class="bnav_a" href="jobs" style="display: none;">Wakaty</a>
+  </div>
+</div>
+
+<div class="footer_bench clear">
+  
+</div></div>
+    <div class="clear"></div>
+  </div>
+</div></div><div id="cookies_policy_wrap" class="cookies_policy_wrap">
+  <div class="cookies_policy" style="width:960px;">
+    <span class="cookies_policy_icon"></span>
+    <span class="cookies_policy_text">By continuing to browse, you consent to our use of cookies. You can read our Cookie Policy <a href="privacy/cookies">here</a>.</span>
+    <span class="cookies_policy_close" onclick="hideCookiesPolicy();"></span>
+  </div>
+</div><noscript><div style="position:absolute;left:-10000px;">
+<img src="../https@top-fwz1.mail.ru/counter@id=2579437;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      window.domReady && domReady();
+      updateMoney(0);
+initPageLayoutUI();
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}var qf = ge('quick_login_form'), ql = ge('quick_login'), qe = ge('quick_email'), qp = ge('quick_pass');
+var qlb = ge('quick_login_button'), prgBtn = qlb;
+
+var qinit = function() {
+  setTimeout(function() {
+    ql.insertBefore(ce('div', {innerHTML: '<iframe class="upload_frame" id="quick_login_frame" name="quick_login_frame"></iframe>'}), qf);
+    qf.target = 'quick_login_frame';
+    qe.onclick = loginByCredential;
+    qp.onclick = loginByCredential;
+  }, 1);
+}
+
+if (window.top && window.top != window) {
+  window.onload = qinit;
+} else {
+  setTimeout(qinit, 0);
+}
+
+qf.onsubmit = function() {
+  if (!ge('quick_login_frame')) return false;
+  if (!trim(qe.value)) {
+    notaBene(qe);
+    return false;
+  } else if (!trim(qp.value)) {
+    notaBene(qp);
+    return false;
+  }
+  lockButton(window.__qfBtn = prgBtn);
+  prgBtn = qlb;
+  clearTimeout(__qlTimer);
+  __qlTimer = setTimeout(loginSubmitError, 30000);
+  domFC(domPS(qf)).onload = function() {
+    clearTimeout(__qlTimer);
+    __qlTimer = setTimeout(loginSubmitError, 2500);
+  }
+  return true;
+}
+
+window.loginSubmitError = function() {
+  showFastBox('Ostrze&#380;enie', 'Nie mo&#380;na dokona&#263; autoryzacji bezpiecznego po&#322;&#261;czenia. Zazwyczaj taka sytuacja wyst&#281;puje wtedy, kiedy na Twoim komputerze widnieje b&#322;&#281;dna data i czas. Prosz&#281; sprawdzi&#263; ustawienia daty i czasu w systemie, a nast&#281;pnie uruchomi&#263; wyszukiwark&#281;.');
+}
+window.focusLoginInput = function() {
+  scrollToTop(0);
+  notaBene('quick_email');
+}
+window.changeQuickRegButton = function(noShow) {
+  if (noShow) {
+    hide('top_reg_link', 'quick_reg_button');
+  } else {
+    show('top_reg_link', 'quick_reg_button');
+  }
+  toggle('top_switch_lang', noShow && window.langConfig && window.langConfig.id != 3);
+}
+window.submitQuickLoginForm = function(email, pass, opts) {
+  setQuickLoginData(email, pass, opts);
+  if (opts && opts.prg) prgBtn = opts.prg;
+  if (qf.onsubmit()) qf.submit();
+}
+window.setQuickLoginData = function(email, pass, opts) {
+  if (email !== undefined) ge('quick_email').value = email;
+  if (pass !== undefined) ge('quick_pass').value = pass;
+  var params = opts && opts.params || {};
+  each (params, function(i, v) {
+    var el = ge('quick_' + i) || ge('quick_login_' + i);;
+    if (el) {
+      val(el, params[i]);
+    } else {
+      qf.appendChild(ce('input', {type: 'hidden', name: i, id: 'quick_login_' + i, value: v}));
+    }
+  });
+}
+window.loginByCredential = function() {
+  if (!browserFeatures.cmaEnabled || !window.submitQuickLoginForm || window._loginByCredOffered) return false;
+
+  _loginByCredOffered = true;
+  navigator.credentials.get({
+    password: true,
+    mediation: 'required'
+  }).then(function(cred) {
+    if (cred) {
+      submitQuickLoginForm(cred.id, cred.password);
+      return true;
+    } else {
+      return false;
+    }
+  });
+}
+
+if (qlb) {
+  qlb.onclick = function() { if (qf.onsubmit()) qf.submit(); };
+}
+
+if (browser.opera_mobile) show('quick_expire');
+
+if (1) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;window.shortCurrency && shortCurrency();
+window.handlePageParams && handlePageParams({"id":0,"no_ads":1,"loc":"dev","noleftmenu":1,"plain":1,"wrap_page":1,"width":960,"width_dec":0,"width_dec_footer":0,"top_home_link_class":"top_home_link fl_l ","body_class":"dev dev_main_page no_wrap_cont main","counters":"","pvbig":0,"pvdark":1});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Aplikacje","global_friends":"Znajomi","global_communities":"Spo&#322;eczno&#347;ci","head_search_results":"Rezultaty wyszukiwania","global_chats":"Dialogi","global_show_all_results":"Wy&#347;wietl wszystkie rezultaty","global_news_search_results":"Rezultaty wyszukiwania w nowo&#347;ciach","global_emoji_cat_recent":"Cz&#281;sto u&#380;ywane","global_emoji_cat_1":"Emocje","global_emoji_cat_2":"Zwierz&#281;ta i ro&#347;liny","global_emoji_cat_3":"Gesty i ludzie","global_emoji_cat_4":"Jedzenie i napoje","global_emoji_cat_5":"Sport i aktywno&#347;ci","global_emoji_cat_6":"Podr&#243;&#380;e i transport","global_emoji_cat_7":"Przedmioty","global_emoji_cat_8":"Symbole","global_emoji_cat_9":"Flagi","stories_remove_warning":"Czy rzeczywi&#347;cie chcesz usuna&#263; histori&#281;?<br>Nie b&#281;dzie mo&#380;na anulowa&#263; czynno&#347;ci.","stories_remove_confirm":"Tak, usu&#324;","stories_answer_placeholder":"Twoja wiadomo&#347;&#263;…","stories_answer_sent":"Wiadomo&#347;&#263; wys&#322;ano","stories_blacklist_title":"Ukryte z historii","stories_settings":"Ustawienia","stories_add_blacklist_title":"Ukryj z historii","stories_add_blacklist_message":"U&#380;ytkownik pozostanie po&#347;r&#243;d znajomych, ale historia nie b&#281;dzie wy&#347;wietlana w nowo&#347;ciach.","stories_add_blacklist_button":"Ukryj z historii","stories_add_blacklist_message_group":"Zostaniesz zapisany do spo&#322;eczno&#347;ci, ale informacje z niej p&#322;yn&#261;ce nie b&#281;d&#261; wy&#347;wietla&#263; si&#281; w nowo&#347;ciach.","stories_error_cant_load":"Nie uda&#322;o si&#281; za&#322;adowa&#263; historii.","stories_try_again":"Spr&#243;buj jeszcze raz","stories_error_expired":"Histori&#281; mo&#380;na by&#322;o zobaczy&#263; <br>w ci&#261;gu 24 godzin po publikacji","stories_error_deleted":"Historia usuni&#281;ta","stories_error_private":"Autor ukry&#322; histori&#281;","stories_mask_tooltip":"Spr&#243;buj t&#261; mask&#281;","stories_mask_sent":"Maska wys&#322;ana na telefon","stories_followed":"Zapisa&#322;e&#347; si&#281;&#33;","stories_unfollowed":"Odpisa&#322;e&#347;","stories_is_ad":"Reklama","stories_private_story":"Historia<br>prywatna","stories_deleted_story":"Historia<br>usuni&#281;ta","stories_bad_browser":"Historie nie s&#261; wspomagane na Twojej wyszukiwarce","stories_delete_all_replies_confirm":"Czy rzeczywi&#347;cie chcesz usun&#261;&#263; wszystkie odpowiedzi {name} z ostatniej doby?<br>Nie b&#281;dzie mo&#380;liwe anulowanie tej czynno&#347;ci.","stories_hide_reply_button":"Ukryj odpowied&#378;","stories_reply_hidden":"Odpowied&#378; do historii jest ukryta.","stories_restore":"Przywr&#243;&#263;","stories_hide_reply_continue":"Kontynuuj przegl&#261;danie","stories_hide_all_replies":["","Ukryj wszystkie jego odpowiedzi z ostatnich dni","Ukryj wszystkie jej odpowiedzi z ostatnich dni"],"stories_reply_add_to_blacklist":"Dodaj do czarnej listy","stories_hide_reply_warning":"Czy rzeczywi&#347;cie chcesz ukry&#263; t&#261; odpowied&#378;?<br>Tej czynno&#347;ci nie b&#281;dzie mo&#380;na anulowa&#263;.","stories_replies_more_button":["","Wy&#347;wietl jeszcze %s komentuj&#261;cego","Wy&#347;wietl jeszcze %s komentuj&#261;cych","Wy&#347;wietl jeszcze %s komentuj&#261;cych"],"stories_all_replies_hidden":"Wszystkie odpowiedzi ukryte","stories_ban_confirm":"Czy rzeczywi&#347;cie chcesz doda&#263; do czarnej listy {name}?<br>Nie b&#281;dzie mo&#380;na anulowa&#263; tej czynno&#347;ci.","stories_banned":"U&#380;ytkownik na czarnej li&#347;cie","stories_share":"Podziel si&#281;","stories_follow":"Zapisa&#263; si&#281;","stories_unfollow":"Wypisa&#263; si&#281;","stories_report":"Skarga","stories_report_sent":"Skarga wys&#322;ana"}, true);
+addTemplates({"_":"_"});var sections = [];
+cur.sections = {"account":{"list":[["account.ban",""],["account.changePassword",""],["account.getActiveOffers",""],["account.getAppPermissions",""],["account.getBanned",""],["account.getCounters",""],["account.getInfo",""],["account.getProfileInfo",""],["account.getPushSettings",""],["account.registerDevice",""],["account.saveProfileInfo",""],["account.setInfo",""],["account.setNameInMenu",""],["account.setOffline",""],["account.setOnline",""],["account.setPushSettings",""],["account.setSilenceMode",""],["account.unban",""],["account.unregisterDevice",""]],"name":"Konto"},"ads":{"list":[["ads.addOfficeUsers",""],["ads.checkLink",""],["ads.createAds",""],["ads.createCampaigns",""],["ads.createClients",""],["ads.createLookalikeRequest",""],["ads.createTargetGroup",""],["ads.createTargetPixel",""],["ads.deleteAds",""],["ads.deleteCampaigns",""],["ads.deleteClients",""],["ads.deleteTargetGroup",""],["ads.deleteTargetPixel",""],["ads.getAccounts",""],["ads.getAds",""],["ads.getAdsLayout",""],["ads.getAdsTargeting",""],["ads.getBudget",""],["ads.getCampaigns",""],["ads.getCategories",""],["ads.getClients",""],["ads.getDemographics",""],["ads.getFloodStats",""],["ads.getLookalikeRequests",""],["ads.getOfficeUsers",""],["ads.getPostsReach",""],["ads.getRejectionReason",""],["ads.getStatistics",""],["ads.getSuggestions",""],["ads.getTargetGroups",""],["ads.getTargetPixels",""],["ads.getTargetingStats",""],["ads.getUploadURL",""],["ads.getVideoUploadURL",""],["ads.importTargetContacts",""],["ads.removeOfficeUsers",""],["ads.removeTargetContacts",""],["ads.saveLookalikeRequestResult",""],["ads.shareTargetGroup",""],["ads.updateAds",""],["ads.updateCampaigns",""],["ads.updateClients",""],["ads.updateTargetGroup",""],["ads.updateTargetPixel",""]],"name":"Reklamy"},"appWidgets":{"list":[["appWidgets.getAppImageUploadServer",""],["appWidgets.getAppImages",""],["appWidgets.getGroupImageUploadServer",""],["appWidgets.getGroupImages",""],["appWidgets.getImagesById",""],["appWidgets.saveAppImage",""],["appWidgets.saveGroupImage",""],["appWidgets.update",""]],"name":"appWidgets"},"apps":{"list":[["apps.deleteAppRequests",""],["apps.get",""],["apps.getCatalog",""],["apps.getFriendsList",""],["apps.getLeaderboard",""],["apps.getScore",""],["apps.sendRequest",""]],"name":"Aplikacje"},"audio":{"name":"Pliki Audio","class_name":"nodoc"},"auth":{"list":[["auth.checkPhone",""],["auth.confirm",""],["auth.restore",""]],"name":"Autoryzacja"},"board":{"list":[["board.addTopic",""],["board.closeTopic",""],["board.createComment",""],["board.deleteComment",""],["board.deleteTopic",""],["board.editComment",""],["board.editTopic",""],["board.fixTopic",""],["board.getComments",""],["board.getTopics",""],["board.openTopic",""],["board.restoreComment",""],["board.unfixTopic",""]],"name":"Tablica"},"database":{"list":[["database.getChairs",""],["database.getCities",""],["database.getCitiesById",""],["database.getCountries",""],["database.getCountriesById",""],["database.getFaculties",""],["database.getRegions",""],["database.getSchoolClasses",""],["database.getSchools",""],["database.getStreetsById",""],["database.getUniversities",""]],"name":"Baza danych"},"docs":{"list":[["docs.add",""],["docs.delete",""],["docs.edit",""],["docs.get",""],["docs.getById",""],["docs.getMessagesUploadServer",""],["docs.getTypes",""],["docs.getUploadServer",""],["docs.getWallUploadServer",""],["docs.save",""],["docs.search",""]],"name":"Dokumenty"},"execute":{"list":[["execute",""]],"name":"Execute"},"fave":{"list":[["fave.addGroup",""],["fave.addLink",""],["fave.addUser",""],["fave.getLinks",""],["fave.getMarketItems",""],["fave.getPhotos",""],["fave.getPosts",""],["fave.getUsers",""],["fave.getVideos",""],["fave.removeGroup",""],["fave.removeLink",""],["fave.removeUser",""]],"name":"Ulubione"},"friends":{"list":[["friends.add",""],["friends.addList",""],["friends.areFriends",""],["friends.delete",""],["friends.deleteAllRequests",""],["friends.deleteList",""],["friends.edit",""],["friends.editList",""],["friends.get",""],["friends.getAppUsers",""],["friends.getByPhones",""],["friends.getLists",""],["friends.getMutual",""],["friends.getOnline",""],["friends.getRecent",""],["friends.getRequests",""],["friends.getSuggestions",""],["friends.search",""]],"name":"Znajomi"},"gifts":{"list":[["gifts.get",""]],"name":"Prezenty"},"groups":{"list":[["groups.addCallbackServer",""],["groups.addLink",""],["groups.approveRequest",""],["groups.ban",""],["groups.create",""],["groups.deleteCallbackServer",""],["groups.deleteLink",""],["groups.disableOnline",""],["groups.edit",""],["groups.editCallbackServer",""],["groups.editLink",""],["groups.editManager",""],["groups.editPlace",""],["groups.enableOnline",""],["groups.get",""],["groups.getBanned",""],["groups.getById",""],["groups.getCallbackConfirmationCode",""],["groups.getCallbackServers",""],["groups.getCallbackSettings",""],["groups.getCatalog",""],["groups.getCatalogInfo",""],["groups.getInvitedUsers",""],["groups.getInvites",""],["groups.getLongPollServer",""],["groups.getLongPollSettings",""],["groups.getMembers",""],["groups.getOnlineStatus",""],["groups.getRequests",""],["groups.getSettings",""],["groups.getTokenPermissions",""],["groups.invite",""],["groups.isMember",""],["groups.join",""],["groups.leave",""],["groups.removeUser",""],["groups.reorderLink",""],["groups.search",""],["groups.setCallbackSettings",""],["groups.setLongPollSettings",""],["groups.unban",""]],"name":"Grupy"},"leads":{"list":[["leads.checkUser",""],["leads.complete",""],["leads.getStats",""],["leads.getUsers",""],["leads.metricHit",""],["leads.start",""]],"name":"Leads"},"likes":{"list":[["likes.add",""],["likes.delete",""],["likes.getList",""],["likes.isLiked",""]],"name":"Polubienia"},"market":{"list":[["market.add",""],["market.addAlbum",""],["market.addToAlbum",""],["market.createComment",""],["market.delete",""],["market.deleteAlbum",""],["market.deleteComment",""],["market.edit",""],["market.editAlbum",""],["market.editComment",""],["market.get",""],["market.getAlbumById",""],["market.getAlbums",""],["market.getById",""],["market.getCategories",""],["market.getComments",""],["market.removeFromAlbum",""],["market.reorderAlbums",""],["market.reorderItems",""],["market.report",""],["market.reportComment",""],["market.restore",""],["market.restoreComment",""],["market.search",""]],"name":"Rynek"},"messages":{"list":[["messages.addChatUser",""],["messages.allowMessagesFromGroup",""],["messages.createChat",""],["messages.delete",""],["messages.deleteChatPhoto",""],["messages.deleteDialog",""],["messages.denyMessagesFromGroup",""],["messages.edit",""],["messages.editChat",""],["messages.get",""],["messages.getById",""],["messages.getChat",""],["messages.getChatPreview",""],["messages.getChatUsers",""],["messages.getDialogs",""],["messages.getHistory",""],["messages.getHistoryAttachments",""],["messages.getInviteLink",""],["messages.getLastActivity",""],["messages.getLongPollHistory",""],["messages.getLongPollServer",""],["messages.isMessagesFromGroupAllowed",""],["messages.joinChatByInviteLink",""],["messages.markAsAnsweredDialog",""],["messages.markAsImportant",""],["messages.markAsImportantDialog",""],["messages.markAsRead",""],["messages.removeChatUser",""],["messages.restore",""],["messages.search",""],["messages.searchDialogs",""],["messages.send",""],["messages.setActivity",""],["messages.setChatPhoto",""]],"name":"Wiadomo&#347;ci"},"newsfeed":{"list":[["newsfeed.addBan",""],["newsfeed.deleteBan",""],["newsfeed.deleteList",""],["newsfeed.get",""],["newsfeed.getBanned",""],["newsfeed.getComments",""],["newsfeed.getLists",""],["newsfeed.getMentions",""],["newsfeed.getRecommended",""],["newsfeed.getSuggestedSources",""],["newsfeed.ignoreItem",""],["newsfeed.saveList",""],["newsfeed.search",""],["newsfeed.unignoreItem",""],["newsfeed.unsubscribe",""]],"name":"Nowo&#347;ci"},"notes":{"list":[["notes.add",""],["notes.createComment",""],["notes.delete",""],["notes.deleteComment",""],["notes.edit",""],["notes.editComment",""],["notes.get",""],["notes.getById",""],["notes.getComments",""],["notes.restoreComment",""]],"name":"Notatki"},"notifications":{"list":[["notifications.get",""],["notifications.markAsViewed",""]],"name":"Powiadomienia"},"orders":{"list":[["orders.cancelSubscription",""],["orders.changeState",""],["orders.get",""],["orders.getAmount",""],["orders.getById",""],["orders.getUserSubscriptionById",""],["orders.getUserSubscriptions",""],["orders.updateSubscription",""]],"name":"Zam&#243;wienia"},"pages":{"list":[["pages.clearCache",""],["pages.get",""],["pages.getHistory",""],["pages.getTitles",""],["pages.getVersion",""],["pages.parseWiki",""],["pages.save",""],["pages.saveAccess",""]],"name":"Strony"},"photos":{"list":[["photos.confirmTag",""],["photos.copy",""],["photos.createAlbum",""],["photos.createComment",""],["photos.delete",""],["photos.deleteAlbum",""],["photos.deleteComment",""],["photos.edit",""],["photos.editAlbum",""],["photos.editComment",""],["photos.get",""],["photos.getAlbums",""],["photos.getAlbumsCount",""],["photos.getAll",""],["photos.getAllComments",""],["photos.getById",""],["photos.getChatUploadServer",""],["photos.getComments",""],["photos.getMarketAlbumUploadServer",""],["photos.getMarketUploadServer",""],["photos.getMessagesUploadServer",""],["photos.getNewTags",""],["photos.getOwnerCoverPhotoUploadServer",""],["photos.getOwnerPhotoUploadServer",""],["photos.getTags",""],["photos.getUploadServer",""],["photos.getUserPhotos",""],["photos.getWallUploadServer",""],["photos.makeCover",""],["photos.move",""],["photos.putTag",""],["photos.removeTag",""],["photos.reorderAlbums",""],["photos.reorderPhotos",""],["photos.report",""],["photos.reportComment",""],["photos.restore",""],["photos.restoreComment",""],["photos.save",""],["photos.saveMarketAlbumPhoto",""],["photos.saveMarketPhoto",""],["photos.saveMessagesPhoto",""],["photos.saveOwnerCoverPhoto",""],["photos.saveOwnerPhoto",""],["photos.saveWallPhoto",""],["photos.search",""]],"name":"Zdj&#281;cia"},"places":{"list":[["places.add",""],["places.checkin",""],["places.getById",""],["places.getCheckins",""],["places.getTypes",""],["places.search",""]],"name":"Miejsca"},"polls":{"list":[["polls.addVote",""],["polls.create",""],["polls.deleteVote",""],["polls.edit",""],["polls.getById",""],["polls.getVoters",""]],"name":"Sonda&#380;e"},"search":{"list":[["search.getHints",""]],"name":"Wyszukiwanie"},"secure":{"list":[["secure.addAppEvent",""],["secure.checkToken",""],["secure.getAppBalance",""],["secure.getSMSHistory",""],["secure.getTransactionsHistory",""],["secure.getUserLevel",""],["secure.sendNotification",""],["secure.sendSMSNotification",""],["secure.setCounter",""],["secure.setUserLevel",""]],"name":"Zabezpieczenie"},"stats":{"list":[["stats.get",""],["stats.getPostReach",""],["stats.trackVisitor",""]],"name":"Statystyka"},"status":{"list":[["status.get",""],["status.set",""]],"name":"Status"},"storage":{"list":[["storage.get",""],["storage.getKeys",""],["storage.set",""]],"name":"Przechowywanie"},"stories":{"list":[["stories.banOwner",""],["stories.delete",""],["stories.get",""],["stories.getBanned",""],["stories.getById",""],["stories.getPhotoUploadServer",""],["stories.getReplies",""],["stories.getStats",""],["stories.getVideoUploadServer",""],["stories.getViewers",""],["stories.hideAllReplies",""],["stories.hideReply",""],["stories.unbanOwner",""]],"name":"stories"},"streaming":{"list":[["streaming.getServerUrl",""],["streaming.getSettings",""],["streaming.getStats",""],["streaming.setSettings",""]],"name":"streaming"},"users":{"list":[["users.get",""],["users.getFollowers",""],["users.getNearby",""],["users.getSubscriptions",""],["users.isAppUser",""],["users.report",""],["users.search",""]],"name":"U&#380;ytkownicy"},"utils":{"list":[["utils.checkLink",""],["utils.deleteFromLastShortened",""],["utils.getLastShortenedLinks",""],["utils.getLinkStats",""],["utils.getServerTime",""],["utils.getShortLink",""],["utils.resolveScreenName",""]],"name":"Narz&#281;dzia"},"video":{"list":[["video.add",""],["video.addAlbum",""],["video.addToAlbum",""],["video.createComment",""],["video.delete",""],["video.deleteAlbum",""],["video.deleteComment",""],["video.edit",""],["video.editAlbum",""],["video.editComment",""],["video.get",""],["video.getAlbumById",""],["video.getAlbums",""],["video.getAlbumsByVideo",""],["video.getCatalog",""],["video.getCatalogSection",""],["video.getComments",""],["video.hideCatalogSection",""],["video.removeFromAlbum",""],["video.reorderAlbums",""],["video.reorderVideos",""],["video.report",""],["video.reportComment",""],["video.restore",""],["video.restoreComment",""],["video.save",""],["video.search",""]],"name":"Pliki Wideo"},"wall":{"list":[["wall.createComment",""],["wall.delete",""],["wall.deleteComment",""],["wall.edit",""],["wall.editAdsStealth",""],["wall.editComment",""],["wall.get",""],["wall.getById",""],["wall.getComments",""],["wall.getReposts",""],["wall.pin",""],["wall.post",""],["wall.postAdsStealth",""],["wall.reportComment",""],["wall.reportPost",""],["wall.repost",""],["wall.restore",""],["wall.restoreComment",""],["wall.search",""],["wall.unpin",""]],"name":"&#346;ciana"},"widgets":{"list":[["widgets.getComments",""],["widgets.getPages",""]],"name":"Widgety"}};
+cur.sect = 'users';
+var methodNum = 1;
+for (var i in cur.sections) {
+  var row = cur.sections[i];
+  sections.push({i: i, l: row.name, c: row.class_name});
+}
+cur.initEdit = function(cont, plain) {
+  cont = 'dev_edit_'+cont;
+  var objCont = ge(cont);
+  if (!objCont) {
+    return;
+  }
+  var editor = new WkEditor(objCont, {
+    buttons: {
+      bold: [0, 0, 'Pogrubiony'],
+      italic: [0, -20, 'Pochylony'],
+      left: [0, -80, 'Wyr&#243;wnaj do lewej strony'],
+      center: [0, -100, 'Wyr&#243;wnaj do &#347;rodka'],
+      right: [0, -120, 'Wyr&#243;wnaj do prawej'],
+      list: [0, -140, 'Listy wypunktowana', 'Element listy'],
+      h1: [0, -180, 'Dodaj tytu&#322;', 'Wpisz tekst nag&#322;&#243;wka'],
+      h2: [0, -200, 'Dodaj podtytu&#322;', 'Wpisz tekst nag&#322;&#243;wka'],
+      h3: [0, -220, 'Dodaj podtytu&#322; drugiego stopnia', 'Wpisz tekst nag&#322;&#243;wka'],
+      blockquote: [0, -360, 'Dodaj cytat', 'Tekst cytatu'],
+      url: [0, -300, 'Dodaj link', 'Usu&#324; link'],
+      image: [0, -240, 'Dodaj zdj&#281;cie'],
+      video: [0, -260, 'Dodaj plik Wideo'],
+      audio: [0, -280, 'Dodaj plik Audio']
+    },
+    plain: plain,
+    wikiPref: '',
+    source: ge(cont+'_textarea'),
+    panelCont: ge(cont+'_buttons_cont'),
+    help: ['Pomoc przy znacznikach'],
+    mode: [0, -340, 'Tryb wiki-mark up', 'Wizualny tryb edycji'],
+    lang: {
+      too_long: 'Strona zbyt d&#322;uga. Prosz&#281; j&#261; skr&#243;ci&#263;.'
+    },
+    onPlainToggle: function(on, btn) {
+      if (btn) {
+        ajax.post('al_pages.php', {act: 'toggle_plain', state: on ? 1 : 0}, {})
+      }
+      if (on) {
+        show('wk_wiki_help');
+      } else {
+        hide('wk_wiki_help');
+      }
+    }
+  });
+  cur.editors.push(editor);
+}
+
+if (ge('dev_section_menu')) {
+  cur.methodsDD = new DropdownMenu(sections, {
+    target: ge('dev_section_menu'),
+    width: 190,
+    showHover: false,
+    offsetTop: -3,
+    containerClass: 'dev_section_dd',
+    updateTarget: false,
+    align: 'right',
+    onSelect: function(obj) {
+      var sect = cur.methodsDD.val();
+      Dev.switchSection(sect, true);
+    },
+    onShow: function() {
+      var rows = cur.methodsDD.rows;
+      if (rows) {
+        var rowsWrap = domPN(rows), rowsH = getSize(rows)[1],
+            rowsWrapH = Math.min(rowsH, Math.max(200, window.lastWindowHeight + scrollGetY() - getXY(rows)[1] - 2));
+        setStyle(rowsWrap, {height: rowsWrapH, overflowY: (rowsWrapH < rowsH ? 'scroll' : 'auto')});
+        rows.scrollTop = 0;
+      }
+      if (!isVisible('box_layer_wrap')) {
+        addClass(bodyNode, 'hat_on_top');
+      }
+    },
+    onHide: function() {
+      removeClass(bodyNode, 'hat_on_top');
+    }
+  });
+}Dev.init({"edit":false,"page":null,"type":"main","editHash":"23607c3f906d75d39b","editors":[],"main_slider_items":[{"title":"Widgety spo&#322;eczno&#347;ci","caption":"Twoje serwisy bli&#380;ej u&#380;ytkownika","className":"community_widgets","link":"\/dev\/community_apps"},{"title":"Streaming API","caption":"Dane dostawy","className":"streaming_api","link":"\/dev\/streaming_api"},{"title":"Wiadomo&#347;ci spo&#322;eczno&#347;ci","caption":"B&#261;d&#378; VKontakcie z klientami","className":"community_messages","link":"\/dev\/bizmessages"}],"lang":{"developers_group_access_method_tip":"Dana metoda jest dost&#281;pna z kluczem dost&#281;pu spo&#322;eczno&#347;ci"}});; TimeSpent && TimeSpent.setTimers && TimeSpent.setTimers(3000, 10000); TimeSpent && TimeSpent.update && TimeSpent.update(false);
+;(function (d, w) {
+if (w.__dev) {
+  return
+}
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);;if (browser.msie) stManager.add('pinbar.js', function() {window.initPinBar('id', 'im', {"left_mynews":"Moje Nowo&#347;ci","left_mymessages":"Moje Wiadomo&#347;ci","left_myfriends":"Moi Znajomi","left_mypage":"Moja Strona"});});
+    }
+  </script>
+</body>
+
+</html>

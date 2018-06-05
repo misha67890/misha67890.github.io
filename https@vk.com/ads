@@ -1,0 +1,516 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="images/icons/favicons/fav_logo.ico@6" />
+
+<link rel="apple-touch-icon" href="images/safari_60.png@1">
+<link rel="apple-touch-icon" sizes="76x76" href="images/safari_76.png@1">
+<link rel="apple-touch-icon" sizes="120x120" href="images/safari_120.png@1">
+<link rel="apple-touch-icon" sizes="152x152" href="images/safari_152.png@1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="Узнайте всё о продвижении через ВКонтакте: страницы для бизнеса, авторизованнные рекламные агентства, рекламные форматы, специальные акции." />
+<meta name="og:title" content="ВКонтакте для бизнеса" />
+<meta name="og:image" content="https://vk.com/images/landings/ads/snippet_fb.jpg" />
+
+<title>Реклама ВКонтакте | VK</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=badbrowser.php"></noscript>
+
+<link rel="stylesheet" type="text/css" href="css/al/common.css@34760342997" /><link rel="stylesheet" type="text/css" href="css/al/fonts_cnt.css@1318650823" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 0,
+  intnat: '1' ? true : false,
+  host: 'vk.com',
+  lang: 15,
+  rtl: parseInt('') || 0,
+  version: 5866419447492,
+  stDomains: 0,
+  stDomain: '',
+  stExcludedMasks: ["loader_nav","lang"],
+  zero: false,
+  contlen: 14404,
+  loginscheme: 'https',
+  ip_h: '4d412941800ee3a2e7',
+  navPrefix: 'default.htm',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1528224513,
+  tz: 10800,
+  pd: 0,
+  css_dir: '',
+  vcost: 7,
+  time: [2018, 6, 5, 21, 48, 33],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: '',
+  audioAdsConfig: {"_":"_"},
+  longViewTestGroup: "every_view",
+  cma: 0,
+  postNoEncode: 0,
+  lpConfig: {
+    enabled: 0,
+    key: '',
+    ts: 0,
+    url: '',
+    lpstat: 0
+  },
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: 'unauth'
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'cmodules/web/common_web.js' : {v: 3},
+  'common.css' : {v: 34760342997},'fonts_cnt.css' : {v: 1318650823}
+  ,'lang15_0.js': {v: 25470408},'ads.css':{v:23035178533},'ads.js':{v:2733727573},'ads_piwik.js':{v:1},'landings/ads.css':{v:18679035383},'landings/landings.css':{v:20080400134},'landing_aes.js':{v:17167906988},'page.js':{v:1008151050},'cookies_policy.css':{v:1},'time_spent.js':{v:732637085},'cmodules/web/page_layout.js':{v:1172409392},'ui_common.js':{v:1617946438},'ui_common.css':{v:16328216615},'audioplayer.js':{v:5900725812},'cmodules/web/likes.js':{v:1},'cmodules/web/grip.js':{v:4164501492}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="css/al/ads.css@23035178533"></link><link type="text/css" rel="stylesheet" href="css/landings/ads.css@18679035383"></link><link type="text/css" rel="stylesheet" href="css/landings/landings.css@20080400134"></link><link type="text/css" rel="stylesheet" href="css/al/cookies_policy.css@1"></link><link type="text/css" rel="stylesheet" href="css/al/ui_common.css@16328216615"></link><script type="text/javascript" src="js/loader_nav5866419447492_15.js"></script><script type="text/javascript" src="js/cmodules/web/common_web.js@3_68436924118"></script><script type="text/javascript" src="js/lang15_0.js@25470408"></script><script type="text/javascript" src="js/lib/px.js@ch=1"></script><script type="text/javascript" src="js/lib/px.js@ch=2"></script><meta name="msApplication-ID" content="C6965DD5.VK" /><meta name="msApplication-PackageFamilyName" content="C6965DD5.VK_v422avzh127ra" /><script type="text/javascript" src="js/al/ads.js@2733727573"></script><script type="text/javascript" src="js/al/ads_piwik.js@1"></script><script type="text/javascript" src="js/cmodules/web/landing_aes.js@17167906988"></script><script type="text/javascript" src="js/al/page.js@1008151050"></script><script type="text/javascript" src="js/al/time_spent.js@732637085"></script><script type="text/javascript" src="js/cmodules/web/page_layout.js@1172409392"></script><script type="text/javascript" src="js/al/ui_common.js@1617946438"></script><script type="text/javascript" src="js/cmodules/web/audioplayer.js@5900725812"></script><script type="text/javascript" src="js/cmodules/web/likes.js@1"></script><script type="text/javascript" src="js/cmodules/web/grip.js@4164501492"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="landing_ads_body landing_ads_en">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">window.domStarted && domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="default.htm" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head1 p_head_l15" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="default.htm" aria-label="Na g&#322;&#243;wn&#261;" accesskey="1" ><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Wyszukiwanie" aria-label="Wyszukiwanie" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><span id="top_audio_layer_place"></span></div>
+  <div class="head_nav_item fl_r"><a class="top_nav_link" href="default.htm" id="top_switch_lang" style="display: none;" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '8a1d01f6029d9717b4' }); return false;" onmousedown="tnActive(this)">
+  Switch to English
+</a><a class="top_nav_link" href="join" id="top_reg_link" style="" onclick="return !showBox('join.php', {act: 'box', from: nav.strLoc}, {}, event)" onmousedown="tnActive(this)">
+  rejestracja
+</a></div>
+  <div class="head_nav_item_player"></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="side_bar fl_l " style="display: none">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <div id="quick_login" class="quick_login">
+  <form method="POST" name="login" id="quick_login_form" action="https://login.vk.com/?act=login">
+    <input type="hidden" name="act" value="login" />
+    <input type="hidden" name="role" value="al_frame" />
+    <input type="hidden" name="expire" id="quick_expire_input" value="" />
+    <input type="hidden" name="recaptcha" id="quick_recaptcha" value="" />
+    <input type="hidden" name="captcha_sid" id="quick_captcha_sid" value="" />
+    <input type="hidden" name="captcha_key" id="quick_captcha_key" value="" />
+    <input type="hidden" name="_origin" value="https://vk.com" />
+    <input type="hidden" name="ip_h" value="4d412941800ee3a2e7" />
+    <input type="hidden" name="lg_h" value="be352decfff7cab6aa" />
+    <div class="label">Telefon lub email</div>
+    <div class="labeled"><input type="text" name="email" class="dark" id="quick_email" /></div>
+    <div class="label">Has&#322;o</div>
+    <div class="labeled"><input type="password" name="pass" class="dark" id="quick_pass" onkeyup="toggle('quick_expire', !!this.value);toggle('quick_forgot', !this.value)" /></div>
+    <input type="submit" class="submit" />
+  </form>
+  <button class="quick_login_button flat_button button_wide" id="quick_login_button">Wejd&#378;</button>
+  <button class="quick_reg_button flat_button button_wide" id="quick_reg_button" style="display: none" onclick="top.showBox('join.php', {act: 'box', from: nav.strLoc})">Rejestracja</button>
+  <div class="clear forgot"><div class="checkbox" id="quick_expire" onclick="checkbox(this);ge('quick_expire_input').value=isChecked(this)?1:'';">NIE zapami&#281;tuj has&#322;a</div><a id="quick_forgot" class="quick_forgot" href="restore" target="_top">Zapomnia&#322;e&#347; has&#322;o?</a></div>
+</div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 960px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content"><div id="ads_page_simple">
+  <div class="landing_ads_container">
+  <div class="landing_ads_main_slider_wrap">
+    <div class="landing_ads_header_shadow"></div>
+    <div class="landing_ads_header">
+  <div class="landing_ads_header_cont clear_fix">
+    <a href="ads" class="landing_ads_header_logo fl_l">Dla biznesu</a>
+    
+    <a href="ads@act=office" class="fl_r landing_ads_header_union_link">Gabinet reklamowy</a>
+  </div>
+</div>
+    <div id="ads_main_slider"></div>
+    <div class="landing_main_slider_covers_wrap"><div class="landing_main_slider_cover_row selected" id="landing_ads_cover_0" style="z-index: 1; background-image: url(images/landings/ads/targeting_slider_cover_updated.jpg)"></div><div class="landing_main_slider_cover_row " id="landing_ads_cover_1" style="z-index: 2; background-image: url(images/landings/ads/main_slider_cover.jpg)"></div><div class="landing_main_slider_cover_row " id="landing_ads_cover_2" style="z-index: 3; background-image: url(images/landings/ads/covers/community_2x.jpg)"></div><div class="landing_main_slider_cover_row " id="landing_ads_cover_3" style="z-index: 4; background-image: url(images/landings/ads/covers/special_projects_2x.jpg)"></div></div>
+  </div>
+  <div class="landing_ads_products clear_fix">
+  <a href="ads/company_page" class="landing_ads_product">
+    <div class="landing_ads_product_icon company_page"></div>
+    <div class="landing_ads_product_title">Strona firmy</div>
+    <div class="landing_ads_product_caption">Mo&#380;liwo&#347;ci stron dla biznesu</div>
+  </a>
+  <a href="ads/targeting" class="landing_ads_product">
+    <div class="landing_ads_product_icon target_ads"></div>
+    <div class="landing_ads_product_title">Reklama ukierunkowana</div>
+    <div class="landing_ads_product_caption">Zamieszczenie reklamy VK.com</div>
+  </a>
+  <a href="ads/special_projects" class="landing_ads_product">
+    <div class="landing_ads_product_icon special_projects"></div>
+    <div class="landing_ads_product_title">Projekty specjalne</div>
+    <div class="landing_ads_product_caption">Aplikacje dla reklamodawc&#243;w</div>
+  </a>
+</div>
+<!--
+<div class="landing_ads_separator"></div>
+<div class="landing_ads_section_title">Historie sukces&#243;w naszych klient&#243;w</div>
+<div class="landing_ads_section_caption">VK.com pomo&#380;e w osi&#261;gni&#281;ciu Twoich cel&#243;w. Zapoznaj si&#281; z osobami, kt&#243;re osi&#261;gn&#281;&#322;y sukces.</div>
+<div id="ads_examples_slider" class="ads_examples_slider"></div>
+-->
+<div class="landing_ads_separator"></div>
+<div class="landing_ads_news">
+  <div class="landing_ads_news_header clear_fix">
+    <div class="landing_ads_news_header_title fl_l">Nowo&#347;ci</div>
+    <a href="wall-19542789@own=1" class="landing_ads_news_header_more_btn fl_r">Wszystkie nowo&#347;ci</a>
+  </div>
+  <div class="landing_ads_news_rows clear_fix">
+    <div class="landing_ads_news_row" onclick="wall.postClick('-19542789_41717', event, {skipCheck: 1});">
+  <div class="landing_ads_news_row_cover" style="background-image: url(images/landings/ads/news/img_1.png)"></div>
+  <a href="wall-19542789_41717" class="landing_ads_news_row_title" onclick="wall.postClick('-19542789_41717', event, {skipCheck: 1});">Transfery pieni&#281;&#380;ne do spo&#322;eczno&#347;ci</a>
+  <div class="landing_ads_news_row_date">20 Mar 2017</div>
+  <input type="hidden" id="post-19542789_41717" />
+</div><div class="landing_ads_news_row" onclick="wall.postClick('-19542789_41214', event, {skipCheck: 1});">
+  <div class="landing_ads_news_row_cover" style="background-image: url(images/landings/ads/news/img_2.png)"></div>
+  <a href="wall-19542789_41214" class="landing_ads_news_row_title" onclick="wall.postClick('-19542789_41214', event, {skipCheck: 1});">Licznik przegl&#261;d&#243;w zapis&#243;w</a>
+  <div class="landing_ads_news_row_date">15 Mar 2017</div>
+  <input type="hidden" id="post-19542789_41214" />
+</div><div class="landing_ads_news_row" onclick="wall.postClick('-19542789_37231', event, {skipCheck: 1});">
+  <div class="landing_ads_news_row_cover" style="background-image: url(images/landings/ads/news/img_3.png)"></div>
+  <a href="wall-19542789_37231" class="landing_ads_news_row_title" onclick="wall.postClick('-19542789_37231', event, {skipCheck: 1});">Nowe mo&#380;liwo&#347;ci georeklamy</a>
+  <div class="landing_ads_news_row_date">31 Sty 2017</div>
+  <input type="hidden" id="post-19542789_37231" />
+</div>
+  </div>
+</div>
+  <div class="landing_ads_footer">
+  <div class="clear_fix">
+    <div class="landing_ads_footer_column fl_l">
+      <div class="landing_ads_footer_column_title">Instrumenty dla biznesu</div>
+      <ul class="landing_ads_footer_column_links">
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/company_page">Strona firmy</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/targeting">Reklama ukierunkowana</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/community_ads">Reklama w spo&#322;eczno&#347;ciach</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/special_projects">Projekty specjalne</a>
+        </li>
+      </ul>
+    </div>
+    <div class="landing_ads_footer_column fl_l">
+      <div class="landing_ads_footer_column_title">Partnerzy</div>
+      <ul class="landing_ads_footer_column_links">
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/partners">Autoryzowani partnerzy</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/automation">Instrumenty automatyzacji</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/media_ads">Baner reklamowy</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="ads/adv_agency">Agencjom reklamowym</a>
+        </li>
+      </ul>
+    </div>
+    <div class="landing_ads_footer_column fl_l">
+      <div class="landing_ads_footer_column_title">Pomoc</div>
+      <ul class="landing_ads_footer_column_links">
+        <li class="landing_ads_footer_column_link">
+          <a href="ads@act=office_help">Kierownictwo dotycz&#261;ce reklamy</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="support@act=faqs_ads">Pomoc dotycz&#261;ca reklamy</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="adsnews">Oficjalna spo&#322;eczno&#347;&#263;</a>
+        </li>
+        <li class="landing_ads_footer_column_link">
+          <a href="dev">Developerzy</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="landing_ads_footer_bottom">
+    <a href="ads@act=office_help&terms=1" class="fl_l">Zasady zamieszczania og&#322;osze&#324; reklamowych</a>
+    <div class="landing_ads_footer_lang fl_r">J&#281;zyk:<a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 15, hash: '8a1d01f6029d9717b4'})">Polski</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '8a1d01f6029d9717b4'})">English</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 0, hash: '8a1d01f6029d9717b4'})">Русский</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 1, hash: '8a1d01f6029d9717b4'})">Українська</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">wszystkie j&#281;zyki »</a></div>
+  </div>
+</div>
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'rtrg@p=VK-RTRG-102600-bDFla';</script>
+
+<script src="js/api/openapi.js@144"></script>
+<script>
+VK.Retargeting.Init('VK-RTRG-102600-bDFla');
+</script>
+</div>
+</div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap simple" style="width: 725px;"><div class="footer_nav" id="bottom_nav">
+  <div class="footer_copy fl_l"><a href="about">VK</a> &copy; 2018</div>
+  <div class="footer_lang fl_r">J&#281;zyk:<a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 15, hash: '8a1d01f6029d9717b4'})">Polski</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 3, hash: '8a1d01f6029d9717b4'})">English</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 0, hash: '8a1d01f6029d9717b4'})">Русский</a><a class="footer_lang_link" onclick="ajax.post('al_index.php', {act: 'change_lang', lang_id: 1, hash: '8a1d01f6029d9717b4'})">Українська</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">wszystkie j&#281;zyki »</a></div>
+  <div class="footer_links">
+    <a class="bnav_a" href="about">o firmie</a>
+    <a class="bnav_a" href="support@act=home" style="display: none;">Pomoc</a>
+    <a class="bnav_a" href="terms">Regulamin</a>
+    <a class="bnav_a" href="ads" style="display: none;">Reklama</a>
+    
+    <a class="bnav_a" href="dev">Developerzy</a>
+    <a class="bnav_a" href="jobs" style="display: none;">Wakaty</a>
+  </div>
+</div>
+
+<div class="footer_bench clear">
+  
+</div></div>
+    <div class="clear"></div>
+  </div>
+</div></div><div id="cookies_policy_wrap" class="cookies_policy_wrap">
+  <div class="cookies_policy" style="width:960px;">
+    <span class="cookies_policy_icon"></span>
+    <span class="cookies_policy_text">By continuing to browse, you consent to our use of cookies. You can read our Cookie Policy <a href="privacy/cookies">here</a>.</span>
+    <span class="cookies_policy_close" onclick="hideCookiesPolicy();"></span>
+  </div>
+</div><noscript><div style="position:absolute;left:-10000px;">
+<img src="../https@top-fwz1.mail.ru/counter@id=2579437;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      window.domReady && domReady();
+      updateMoney(0);
+initPageLayoutUI();
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}var qf = ge('quick_login_form'), ql = ge('quick_login'), qe = ge('quick_email'), qp = ge('quick_pass');
+var qlb = ge('quick_login_button'), prgBtn = qlb;
+
+var qinit = function() {
+  setTimeout(function() {
+    ql.insertBefore(ce('div', {innerHTML: '<iframe class="upload_frame" id="quick_login_frame" name="quick_login_frame"></iframe>'}), qf);
+    qf.target = 'quick_login_frame';
+    qe.onclick = loginByCredential;
+    qp.onclick = loginByCredential;
+  }, 1);
+}
+
+if (window.top && window.top != window) {
+  window.onload = qinit;
+} else {
+  setTimeout(qinit, 0);
+}
+
+qf.onsubmit = function() {
+  if (!ge('quick_login_frame')) return false;
+  if (!trim(qe.value)) {
+    notaBene(qe);
+    return false;
+  } else if (!trim(qp.value)) {
+    notaBene(qp);
+    return false;
+  }
+  lockButton(window.__qfBtn = prgBtn);
+  prgBtn = qlb;
+  clearTimeout(__qlTimer);
+  __qlTimer = setTimeout(loginSubmitError, 30000);
+  domFC(domPS(qf)).onload = function() {
+    clearTimeout(__qlTimer);
+    __qlTimer = setTimeout(loginSubmitError, 2500);
+  }
+  return true;
+}
+
+window.loginSubmitError = function() {
+  showFastBox('Ostrze&#380;enie', 'Nie mo&#380;na dokona&#263; autoryzacji bezpiecznego po&#322;&#261;czenia. Zazwyczaj taka sytuacja wyst&#281;puje wtedy, kiedy na Twoim komputerze widnieje b&#322;&#281;dna data i czas. Prosz&#281; sprawdzi&#263; ustawienia daty i czasu w systemie, a nast&#281;pnie uruchomi&#263; wyszukiwark&#281;.');
+}
+window.focusLoginInput = function() {
+  scrollToTop(0);
+  notaBene('quick_email');
+}
+window.changeQuickRegButton = function(noShow) {
+  if (noShow) {
+    hide('top_reg_link', 'quick_reg_button');
+  } else {
+    show('top_reg_link', 'quick_reg_button');
+  }
+  toggle('top_switch_lang', noShow && window.langConfig && window.langConfig.id != 3);
+}
+window.submitQuickLoginForm = function(email, pass, opts) {
+  setQuickLoginData(email, pass, opts);
+  if (opts && opts.prg) prgBtn = opts.prg;
+  if (qf.onsubmit()) qf.submit();
+}
+window.setQuickLoginData = function(email, pass, opts) {
+  if (email !== undefined) ge('quick_email').value = email;
+  if (pass !== undefined) ge('quick_pass').value = pass;
+  var params = opts && opts.params || {};
+  each (params, function(i, v) {
+    var el = ge('quick_' + i) || ge('quick_login_' + i);;
+    if (el) {
+      val(el, params[i]);
+    } else {
+      qf.appendChild(ce('input', {type: 'hidden', name: i, id: 'quick_login_' + i, value: v}));
+    }
+  });
+}
+window.loginByCredential = function() {
+  if (!browserFeatures.cmaEnabled || !window.submitQuickLoginForm || window._loginByCredOffered) return false;
+
+  _loginByCredOffered = true;
+  navigator.credentials.get({
+    password: true,
+    mediation: 'required'
+  }).then(function(cred) {
+    if (cred) {
+      submitQuickLoginForm(cred.id, cred.password);
+      return true;
+    } else {
+      return false;
+    }
+  });
+}
+
+if (qlb) {
+  qlb.onclick = function() { if (qf.onsubmit()) qf.submit(); };
+}
+
+if (browser.opera_mobile) show('quick_expire');
+
+if (1) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;window.shortCurrency && shortCurrency();var adserver_id = Math.floor(Math.random()*1000000);
+var aid = 'adserver'+adserver_id;
+if (window.adb_check == undefined) {
+  window.adb_check = [];
+}
+window.adb_check[adserver_id] = false;
+cur.adb_hash = '65fb3b9375b47233a0';
+cur.hideAdBlockNotice = function () {
+  hide(ge('ads_adblock_notice'));
+  ajax.post('ads@act=a_hide_adb_notice', {
+    hash: cur.adb_hash
+  }, {
+    onFail: function () {
+      showFastBox(getLang('ads_error_box_title'), getLang('ads_error_box_title'));
+      return true;
+    }
+  });
+};
+
+var performCheck = function (src) {
+  setTimeout(function () {
+    var adserver = ge(aid);
+    if (!window.adb_check[adserver_id] || !adserver || (adserver.style.visibility == 'hidden') || (adserver.style.display == 'none')) {
+      show(ge('ads_adblock_notice'));
+    } else {
+      hide(ge('ads_adblock_notice'));
+    }
+    delete window.adb_check[adserver_id];
+    if (adserver) {
+      re(adserver);
+    }
+  }, 500);
+};
+var element = ce('script', {
+  id: aid,
+  type: 'text/javascript',
+  async: true,
+  onerror: performCheck.pbind('error'),
+  onload: performCheck.pbind('load')
+});
+element.src = '/ads?adslogger=commercial&advertisement='+adserver_id+'&act=check_adblock';
+geByTag1('body').appendChild(element);
+window.handlePageParams && handlePageParams({"id":0,"no_ads":1,"loc":null,"noleftmenu":1,"nobottommenu":1,"wrap_page":1,"width":960,"width_dec":0,"width_dec_footer":235,"top_home_link_class":"top_home_link fl_l ","body_class":"landing_ads_body landing_ads_en","counters":"","pvbig":0,"pvdark":1});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Aplikacje","global_friends":"Znajomi","global_communities":"Spo&#322;eczno&#347;ci","head_search_results":"Rezultaty wyszukiwania","global_chats":"Dialogi","global_show_all_results":"Wy&#347;wietl wszystkie rezultaty","global_news_search_results":"Rezultaty wyszukiwania w nowo&#347;ciach","global_emoji_cat_recent":"Cz&#281;sto u&#380;ywane","global_emoji_cat_1":"Emocje","global_emoji_cat_2":"Zwierz&#281;ta i ro&#347;liny","global_emoji_cat_3":"Gesty i ludzie","global_emoji_cat_4":"Jedzenie i napoje","global_emoji_cat_5":"Sport i aktywno&#347;ci","global_emoji_cat_6":"Podr&#243;&#380;e i transport","global_emoji_cat_7":"Przedmioty","global_emoji_cat_8":"Symbole","global_emoji_cat_9":"Flagi","stories_remove_warning":"Czy rzeczywi&#347;cie chcesz usuna&#263; histori&#281;?<br>Nie b&#281;dzie mo&#380;na anulowa&#263; czynno&#347;ci.","stories_remove_confirm":"Tak, usu&#324;","stories_answer_placeholder":"Twoja wiadomo&#347;&#263;…","stories_answer_sent":"Wiadomo&#347;&#263; wys&#322;ano","stories_blacklist_title":"Ukryte z historii","stories_settings":"Ustawienia","stories_add_blacklist_title":"Ukryj z historii","stories_add_blacklist_message":"U&#380;ytkownik pozostanie po&#347;r&#243;d znajomych, ale historia nie b&#281;dzie wy&#347;wietlana w nowo&#347;ciach.","stories_add_blacklist_button":"Ukryj z historii","stories_add_blacklist_message_group":"Zostaniesz zapisany do spo&#322;eczno&#347;ci, ale informacje z niej p&#322;yn&#261;ce nie b&#281;d&#261; wy&#347;wietla&#263; si&#281; w nowo&#347;ciach.","stories_error_cant_load":"Nie uda&#322;o si&#281; za&#322;adowa&#263; historii.","stories_try_again":"Spr&#243;buj jeszcze raz","stories_error_expired":"Histori&#281; mo&#380;na by&#322;o zobaczy&#263; <br>w ci&#261;gu 24 godzin po publikacji","stories_error_deleted":"Historia usuni&#281;ta","stories_error_private":"Autor ukry&#322; histori&#281;","stories_mask_tooltip":"Spr&#243;buj t&#261; mask&#281;","stories_mask_sent":"Maska wys&#322;ana na telefon","stories_followed":"Zapisa&#322;e&#347; si&#281;&#33;","stories_unfollowed":"Odpisa&#322;e&#347;","stories_is_ad":"Reklama","stories_private_story":"Historia<br>prywatna","stories_deleted_story":"Historia<br>usuni&#281;ta","stories_bad_browser":"Historie nie s&#261; wspomagane na Twojej wyszukiwarce","stories_delete_all_replies_confirm":"Czy rzeczywi&#347;cie chcesz usun&#261;&#263; wszystkie odpowiedzi {name} z ostatniej doby?<br>Nie b&#281;dzie mo&#380;liwe anulowanie tej czynno&#347;ci.","stories_hide_reply_button":"Ukryj odpowied&#378;","stories_reply_hidden":"Odpowied&#378; do historii jest ukryta.","stories_restore":"Przywr&#243;&#263;","stories_hide_reply_continue":"Kontynuuj przegl&#261;danie","stories_hide_all_replies":["","Ukryj wszystkie jego odpowiedzi z ostatnich dni","Ukryj wszystkie jej odpowiedzi z ostatnich dni"],"stories_reply_add_to_blacklist":"Dodaj do czarnej listy","stories_hide_reply_warning":"Czy rzeczywi&#347;cie chcesz ukry&#263; t&#261; odpowied&#378;?<br>Tej czynno&#347;ci nie b&#281;dzie mo&#380;na anulowa&#263;.","stories_replies_more_button":["","Wy&#347;wietl jeszcze %s komentuj&#261;cego","Wy&#347;wietl jeszcze %s komentuj&#261;cych","Wy&#347;wietl jeszcze %s komentuj&#261;cych"],"stories_all_replies_hidden":"Wszystkie odpowiedzi ukryte","stories_ban_confirm":"Czy rzeczywi&#347;cie chcesz doda&#263; do czarnej listy {name}?<br>Nie b&#281;dzie mo&#380;na anulowa&#263; tej czynno&#347;ci.","stories_banned":"U&#380;ytkownik na czarnej li&#347;cie","stories_share":"Podziel si&#281;","stories_follow":"Zapisa&#263; si&#281;","stories_unfollow":"Wypisa&#263; si&#281;","stories_report":"Skarga","stories_report_sent":"Skarga wys&#322;ana"}, true);
+addTemplates({"_":"_"});cur.lang = extend({}, cur.lang , {"ads_active_ads_found":["","Найдено %s активное объявление","Найдено %s активных объявления","Найдено %s активных объявлений"],"ads_active_ads_total":["","В кампании %s активное объявление","В кампании %s активных объявления","В кампании %s активных объявлений"],"ads_active_campaigns_found":["","Найдена %s активная кампания","Найдены %s активные кампании","Найдено %s активных кампаний"],"ads_active_campaigns_total":["","У Вас %s активная кампания","У Вас %s активные кампании","У Вас %s активных кампаний"],"ads_active_clients_found":["","Найден %s активный клиент","Найдено %s активных клиента","Найдено %s активных клиентов"],"ads_active_clients_total":["","У Вас %s активный клиент","У Вас %s активных клиента","У Вас %s активных клиентов"],"ads_archive_box_action":"Архивировать","ads_archive_box_ad_complete":"Объявление перенесено в архив.","ads_archive_box_ad_title":"Архивирование объявления","ads_archive_box_ad_warning":"Вы можете заархивировать объявление — оно будет <b>остановлено<\/b> и не будет выводиться в общем списке.<br><br>Вы сможете просмотреть статистику таких объявлений, выбрав в меню кампании фильтр «Показывать архивные объявления». Снова запустить архивное объявление или <b>отменить архивацию<\/b> будет <b>невозможно<\/b>.","ads_archive_box_campaign_complete":"Кампания перенесена в архив.","ads_archive_box_campaign_title":"Архивирование кампании","ads_archive_box_campaign_warning":"Вы можете заархивировать кампанию — она будет <b>остановлена<\/b> вместе со всеми объявлениями и не будет выводиться в общем списке.<br><br>Вы сможете просмотреть статистику таких кампаний, выбрав в меню личного кабинета фильтр «Показывать архивные кампании». Запустить архивную кампанию и объявления в ней, или <b>отменить архивацию<\/b> будет <b>невозможно<\/b>.","ads_archive_box_client_complete":"Клиент помещён в архив.","ads_archive_box_client_title":"Архивирование клиента","ads_archive_box_client_warning":"Все кампании и объявления, относящиеся к клиенту, будут <b>остановлены<\/b> и не будут выводиться в общем списке.<br><br>Вы сможете просмотреть статистику таких клиентов, выбрав в меню фильтр «Показывать архивных клиентов». <b>Отменить архивацию<\/b> будет <b>невозможно<\/b>.","ads_archived_ads_found":["","Найдено %s архивное объявление","Найдено %s архивных объявления","Найдено %s архивных объявлений"],"ads_archived_ads_total":["","В кампании %s архивное объявление","В кампании %s архивных объявления","В кампании %s архивных объявлений"],"ads_archived_campaigns_found":["","Найдена %s архивная кампания","Найдены %s архивные кампании","Найдено %s архивных кампаний"],"ads_archived_campaigns_total":["","У Вас %s архивная кампания","У Вас %s архивные кампании","У Вас %s архивных кампаний"],"ads_archived_clients_found":["","Найден %s архивный клиент","Найдено %s архивных клиента","Найдено %s архивных клиентов"],"ads_archived_clients_total":["","У Вас %s архивный клиент","У Вас %s архивных клиента","У Вас %s архивных клиентов"],"ads_bonus_page_activation_title":"Активация купона","ads_bonus_page_money_amount_required_message":"Для активации купона на {money_amount} Вам необходимо первым платежом единовременно пополнить бюджет на сумму не менее <b>{money_amount_required}<\/b>.","ads_bonus_page_money_amount_required_message_redesigned":"Чтобы бонусные {money_amount} зачислились на счёт, пополните бюджет рекламного кабинета единовременно на сумму {money_amount_required}.","ads_bonus_page_money_amount_required_button":"Пополнить баланс","ads_budget_box_fill_reqs":"Заполнить реквизиты","ads_budget_box_make_invoice":"Выставить счёт","ads_budget_box_make_payment":"Пополнить","ads_budget_box_payment_legal_money":"Через безналичный перевод","ads_budget_box_payment_type_user_money":"С личного счёта","ads_cant_start_ad_box_title":"Невозможно запустить объявление","ads_create_box_create":"Создать","ads_disable_office_box_button":null,"ads_disable_office_box_title":null,"ads_disable_office_confirm_message":null,"ads_edit_admin_box_select_admin_type_placeholder":"Выбор клиентов","ads_edit_admin_box_title_add":"Добавление пользователя","ads_edit_admin_box_title_edit":"Изменение прав пользователя","ads_edit_admin_box_title_remove":"Удаление пользователя","ads_edit_admin_box_type_admin":"Администратор","ads_edit_admin_box_type_client":"Клиент","ads_edit_admin_box_type_viewer":"Наблюдатель","ads_edit_admin_box_user_added_title":"Пользователь добавлен","ads_edit_admin_no_user_link":"Укажите ссылку на страницу пользователя.","ads_error_bonus_activation_box_title":"Невозможно активировать купон","ads_error_box_title":"Ошибка","ads_error_budget_box_integer":"Введите целое число рублей.","ads_error_budget_box_integer_or_equal":"Введите целое число рублей или сумму остатка на счёте.","ads_error_budget_box_invalid_value":"Недопустимый формат.","ads_error_budget_box_invoice_money_min_with_value":"Минимальная сумма для выставления счёта — {money}.","ads_error_budget_box_money_min":"Вы не можете перевести меньше 100 рублей.","ads_error_budget_box_no_money":"У Вас недостаточно денег на счёте.","ads_error_budget_box_no_money_with_link":"У Вас недостаточно денег на счёте. {link}Пополнить баланс.{\/link}","ads_error_budget_box_no_value":"Введите сумму для перевода.","ads_error_budget_box_no_votes":"У Вас недостаточно голосов для перевода. {link}Получить голоса{\/link}.","ads_error_budget_box_votes_min":"Вы не можете перевести меньше 10 голосов.","ads_error_budget_box_integer_votes":"Введите целое число голосов.","ads_error_budget_box_integer_euro":"Введите целое число евро.","ads_error_budget_box_integer_dollars":"Введите целое число долларов.","ads_error_campaign_name_no_value":"Введите название рекламной кампании.","ads_error_client_name_no_value":"Введите название клиента.","ads_error_cost_per_click_invalid_value":"Недопустимый формат.","ads_error_cost_per_click_max_value":"Максимальная цена за переход — {money}.","ads_error_cost_per_click_min_value":"Минимальная цена за переход — {money}.","ads_error_cost_per_click_no_value":"Введите цену за переход.","ads_error_cost_per_views_invalid_value":"Недопустимый формат.","ads_error_cost_per_views_max_value":"Максимальная цена за 1000 показов - {money}.","ads_error_cost_per_views_min_value":"Минимальная цена за 1000 показов — {money}.","ads_error_cost_per_views_no_value":"Введите цену за 1000 показов.","ads_error_edit_admin_box_no_client":"Укажите клиента, к которому Вы хотите предоставить доступ.","ads_error_edit_admin_box_no_clients":"Укажите клиентов, к которым Вы хотите предоставить доступ.","ads_error_export_stat_invalid_period":"Указанная конечная дата сбора статистики раньше начальной.","ads_error_export_stat_no_campaigns_selected":"Не выбрано ни одной кампании.","ads_error_export_stat_period_no_data":"За заданный промежуток времени не было запущенных объявлений.","ads_error_limit_integer_value":"Введите целое число рублей.","ads_error_limit_invalid_value":"Недопустимый формат.","ads_error_limit_large_value":"Задан слишком большой лимит.","ads_error_limit_min_value":"Минимальный лимит — {money}.","ads_error_limit_no_value":"Введите лимит.","ads_error_reqs_inn_found":"Найдены реквизиты компании с указанным ИНН. Компания пока не закреплена ни за одним рекламным кабинетом.<br>{link}Использовать реквизиты {company_name}.{\/link}","ads_error_reqs_inn_free":"ИНН свободен. Пожалуйста, укажите остальные реквизиты.","ads_error_reqs_inn_will_fix":"Компания будет закреплена за этим рекламным кабинетом. После чего указанные реквизиты нельзя будет использовать в другом кабинете таргетированной рекламы.","ads_error_reqs_inn_will_fix_posts":"Компания будет закреплена за этим рекламным кабинетом. После чего указанные реквизиты нельзя будет использовать в другом кабинете биржи рекламы.","ads_error_reqs_inn_will_fix_offers":"Компания будет закреплена за этим рекламным кабинетом. После чего указанные реквизиты нельзя будет использовать в другом кабинете рекламных акций.","ads_error_text":"Ошибка.","ads_error_unexpected_error_try_later":"Произошла непредвиденная ошибка. Попробуйте позже.","ads_error_unknown_error":"Неизвестная ошибка.","ads_export_stat_error_box_title_no_data":"Нет данных","ads_get_export_export_to_file":"Экспортировать в файл","ads_inline_edit_remove_limit":"Убрать лимит","ads_inline_edit_remove_start_time":"Убрать дату запуска","ads_inline_edit_remove_stop_time":"Убрать дату остановки","ads_new_office_type_agency":null,"ads_new_office_type_legal":null,"ads_new_office_type_user":null,"ads_no_active_ads":"В кампании нет активных объявлений","ads_no_active_ads_found":"Не найдено ни одного активного объявления с таким названием","ads_no_active_campaigns":"У Вас нет активных кампаний","ads_no_active_campaigns_found":"Не найдено ни одной активной кампании с таким названием","ads_no_active_clients":"У Вас нет активных клиентов","ads_no_active_clients_found":"Не найдено ни одного активного клиента с таким названием","ads_no_archived_ads":"В кампании нет архивных объявлений","ads_no_archived_ads_found":"Не найдено ни одного архивного объявления с таким названием","ads_no_archived_campaigns":"У Вас нет архивных кампаний","ads_no_archived_campaigns_found":"Не найдено ни одной архивной кампании с таким названием","ads_no_archived_clients":"У Вас нет архивных клиентов","ads_no_archived_clients_found":"Не найдено ни одного архивного клиента с таким названием","ads_no_money_limit":"Не задан","ads_no_planned_ads":"В кампании нет запланированных объявлений","ads_no_planned_ads_found":"Не найдено ни одного запланированного объявления с таким названием","ads_no_planned_campaigns":"У Вас нет запланированных кампаний","ads_no_planned_campaigns_found":"Не найдено ни одной запланированной кампании с таким названием","ads_no_running_ads":"В кампании нет запущенных объявлений","ads_no_running_ads_found":"Не найдено ни одного запущенного объявления с таким названием","ads_no_running_campaigns":"У Вас нет запущенных кампаний","ads_no_running_campaigns_found":"Не найдено ни одной запущенной кампании с таким названием","ads_no_stopped_ads":"В кампании нет остановленных объявлений","ads_no_stopped_ads_found":"Не найдено ни одного остановленного объявления с таким названием","ads_no_stopped_campaigns":"У Вас нет остановленных кампаний","ads_no_stopped_campaigns_found":"Не найдено ни одной остановленной кампании с таким названием","ads_paginated_table_footer_total":"Всего","ads_paginated_table_no_data":"Нет данных","ads_paginated_table_no_entries":"Нет записей","ads_paginated_table_search":"Поиск","ads_paginated_table_show_20":"20 записей","ads_paginated_table_show_50":"50 записей","ads_paginated_table_show_all":"Все записи","ads_paginated_table_shown_filter_label":"Показаны:","ads_paginated_table_shown_from_to_new":"Выводятся записи с {from} по {to}","ads_paginated_table_shown_total":"(всего {total})","ads_paginated_table_show_num_label":"Показывать на странице:","ads_planned_ads_found":["","Найдено %s запланированное объявление","Найдено %s запланированных объявления","Найдено %s запланированных объявлений"],"ads_planned_ads_total":["","В кампании %s запланированное объявление","В кампании %s запланированных объявления","В кампании %s запланированных объявлений"],"ads_planned_campaigns_found":["","Найдена %s запланированная кампания","Найдены %s запланированные кампании","Найдено %s запланированных кампаний"],"ads_planned_campaigns_total":["","У Вас %s запланированная кампания","У Вас %s запланированные кампании","У Вас %s запланированных кампаний"],"ads_register_bonus_user_enter":"Войти","ads_register_bonus_user_enter_box_title":"Вход","ads_register_bonus_user_register":"Зарегистрироваться","ads_register_bonus_user_register_box_title":"Регистрация","ads_reqs_box_non_resident":"Нерезидент","ads_reqs_box_resident":"Резидент","ads_reqs_info_edit_reqs":"Изменить реквизиты","ads_reqs_info_show_reqs":"Показать реквизиты","ads_running_ads_found":["","Найдено %s запущенное объявление","Найдено %s запущенных объявления","Найдено %s запущенных объявлений"],"ads_running_ads_total":["","В кампании %s запущенное объявление","В кампании %s запущенных объявления","В кампании %s запущенных объявлений"],"ads_running_campaigns_found":["","Найдена %s запущенная кампания","Найдены %s запущенные кампании","Найдено %s запущенных кампаний"],"ads_running_campaigns_total":["","У Вас %s запущенная кампания","У Вас %s запущенные кампании","У Вас %s запущенных кампаний"],"ads_status_do_archive":"Архивировать","ads_status_do_disable":"Остановить","ads_status_do_enable":"Запустить","ads_stopped_ads_found":["","Найдено %s остановленное объявление","Найдено %s остановленных объявления","Найдено %s остановленных объявлений"],"ads_stopped_ads_total":["","В кампании %s остановленное объявление","В кампании %s остановленных объявления","В кампании %s остановленных объявлений"],"ads_stopped_campaigns_found":["","Найдена %s остановленная кампания","Найдены %s остановленные кампании","Найдено %s остановленных кампаний"],"ads_stopped_campaigns_total":["","У Вас %s остановленная кампания","У Вас %s остановленные кампании","У Вас %s остановленных кампаний"],"ads_jan":"января","ads_feb":"февраля","ads_mar":"марта","ads_apr":"апреля","ads_may":"мая","ads_jun":"июня","ads_jul":"июля","ads_aug":"августа","ads_sep":"сентября","ads_oct":"октября","ads_nov":"ноября","ads_dec":"декабря","global_money_amount_rub":["","%s rubel","%s ruble","%s ruble","%s ruble","%s rubli"],"global_money_amount_rub_fixed":null,"global_money_amount_rub_short":["","%s rub.","%s rub.","%s rub."],"global_money_amount_euro":["","%s euro","%s euro","%s euro"],"global_money_amount_dollars":["","%s dolar","%s dolary","%s dolar&#243;w"],"global_money_amount_rub_text":["","rubel","ruble","rubli"],"global_money_amount_votes_text":["","g&#322;os","g&#322;osy","g&#322;os&#243;w"],"global_money_amount_euro_text":["","euro","euro","euro"],"global_money_amount_dollars_text":["","dolar","dolary","dolar&#243;w"],"login_wrong_email_pwd":"Wpisano niewiarygodny login lub has&#322;o.","reg0_login_is_taken":null,"reg_sex_not_set":null,"select_city_not_found":"Miasto nie znaleziono","select_city_not_selected":"Nie wybrano","select_city_other_city":"Inny","select_city_select":"Wpisz miasto","ads_payments_payment_type_legal":"Я хочу зачислять средства через безналичный расчёт.","ads_payments_payment_type_not_legal":"Я хочу зачислять средства через банковские карты, платёжные системы или терминалы.","ads_payments_payment_type_not_legal_offers":"Я хочу зачислять средства через банковские карты или платёжные системы.","ads_payments_legal_sum_with_fee":["","На Ваш счёт будет зачислен <b>%s<\/b> рубль","На Ваш счёт будут зачислены <b>%s<\/b> рубля","На Ваш счёт будет зачислено <b>%s<\/b> рублей"],"ads_settings_email_notification_budget":"Пополнение бюджета","ads_settings_email_notification_approve":"Одобрение объявления","ads_settings_email_notification_disapprove":"Отклонение объявления","ads_settings_email_notifications_saved":"Изменения сохранены.","ads_settings_email_notifications_not_saved":"Возникли проблемы при сохранении. Попробуйте позже.","ads_edit_admin_box_access_type_all":"Доступ ко всем клиентам","ads_edit_admin_box_admin_clients_all_disabled_text":"Все клиенты","ads_export_stat_data_title_campaigns":"Выбор кампаний для экспорта","ads_export_stat_data_title_clients":"Выбор клиентов для экспорта","ads_offers_cost_lowering_title":"Подтвердите сохранение","ads_ad_redesign_tooltip":"Мы готовимся к обновлению дизайна ВКонтакте. Изменения затронут внешний вид рекламных объявлений. Ваше объявление может быть показано пользователю в обновлённом формате.","ads_admin_remove_self_confirm_title":"Подтверждение действия","ads_admin_remove_self_confirm_message":"Вы действительно хотите выйти из кабинета?<br><br>Восстановить доступ сможет только администратор кабинета. ","ads_promoted_post_stealth_group_selector":"Теперь сообщество можно выбрать здесь","ads_promoted_post_confirm_leave":"Рекламная запись не сохранится.","ads_relevance_score_hint_new_feature":"Теперь можно посмотреть оценку рекламной записи","ads_retargeting_price_list_http_auth":"Использовать HTTP аутентификацию","ads_retargeting_price_list_delete":"Удалить прайс-лист","ads_retargeting_pixel_errors_new_feature":"Стала доступна информация об ошибках в пикселях","ads_retargeting_price_list_errors_new_feature":"Стала доступна информация об ошибках в прайс-листах","ads_retargeting_group_share_link_copy":"Копировать"});
+LandingAds.init('intro', {"mainSliderData":[{"title":"Reklama ukierunkowana VK.com","caption":"Znajd&#378; klient&#243;w i zwi&#281;ksz sprzeda&#380;","cover":"images/landings/ads/targeting_slider_cover_updated.jpg","href":"\/ads\/targeting","buttons":[{"text":"Szczeg&#243;&#322;y","href":"\/ads\/targeting","style":"fill"},{"text":"Utw&#243;rz og&#322;oszenie","onClick":" LandingAds.sendStatEvent('slider_ads_create');","href":"\/adscreate"}]},{"title":"Utw_25F3rz stron Twojego biznesu VK.com","caption":"Kontaktuj si&#281; z klientami tam, gdzie sp&#281;dzaj&#261; najwi&#281;cej czasu","cover":"images/landings/ads/main_slider_cover.jpg","href":"\/ads\/company_page","buttons":[{"text":"Szczeg&#243;&#322;y","href":"\/ads\/company_page","style":"fill"},{"text":"Utw&#243;rz stron&#281;","href":"groups@w=groups_create","onClick":"LandingAds.showCreateGroupBoxNew(event); LandingAds.sendStatEvent('slider_create_page');"}]},{"title":"Reklama w spo&#322;eczno&#347;ciach","caption":"Zamie[ reklam w jednej z tysica spoBeczno[ci VK.com","cover":"images/landings/ads/covers/community_2x.jpg","href":"\/ads\/community_ads","buttons":[{"text":"Szczeg&#243;&#322;y","href":"\/ads\/community_ads","style":"fill"},{"text":"Umie&#347;&#263; reklam&#281;","onClick":"LandingAds.communityAdsExchange(event); LandingAds.sendStatEvent('slider_exchange');","href":"adsmarket@act=office"}]},{"title":"Projekty specjalne","caption":"Unikalne mo&#380;liwo&#347;ci promocji dla Twojego biznesu","cover":"images/landings/ads/covers/special_projects_2x.jpg","href":"\/ads\/special_projects","buttons":[{"text":"Szczeg&#243;&#322;y","href":"\/ads\/special_projects","style":"fill"},{"text":"Wy&#347;lij wniosek","href":"\/ads","onClick":"LandingAds.specialProjectsMailForm(); cancelEvent(event); LandingAds.sendStatEvent('slider_special_project');"}]}],"langs":[],"examplesSliderData":[{"title":"Алексей Лопатников","subtitle":"Digital-директор","caption":"ВКонтакте мы размещали вакансии в наших ресторанах. Конверсия в 2 раза больше, чем в контексте.","image_src":"images/landings/ads/examples/people1.png"},{"title":"Николай Болотнников","subtitle":"Предприниматель","caption":"В небольшой мастерской мы создаем уникальные наборы посуды из керамики. ВКонтакте мы нашли клиентов.","image_src":"images/landings/ads/examples/people2.png"},{"title":"Кристина Николаева","subtitle":"Менеджер по маргетингу","caption":"С помощью размещения рекламы, мы смогли увеличить клиентов на доставку нашей пиццерии.","image_src":"images/landings/ads/examples/people3.png"}],"no_office":1});
+cur.const = {};
+cur.const['ADS_RETARGETING_QUEUE_COPY_STATUS_QUEUED'] = 1;
+cur.const['ADS_RETARGETING_QUEUE_COPY_STATUS_DONE'] = 3;
+cur.const['ADS_RETARGETING_QUEUE_COPY_STATUS_IN_PROGRESS'] = 2;
+cur.unionsLimits = {cost_per_click_pattern:/^(0\.[0-9]{1,2}|[1-9][0-9]{0,6}(\.[0-9]{1,2})?)$/g,limit_pattern:/^[1-9][0-9]{0,10}$/g,budget_pattern:/^[1-9][0-9]{0,10}$/g,budget_pattern_all:/^(0\.[0-9]{1,2}|[1-9][0-9]{0,10}(\.[0-9]{1,2})?)$/g,cost_per_click_min:6.00,cost_per_click_cis_min:2.00,cost_per_click_app_min:2.00,cost_per_click_app_cis_min:1.00,cost_per_click_big_app_min:50.00,cost_per_click_mobile_min:2.00,cost_per_click_mobile_cis_min:1.50,cost_per_click_special_min:2.00,cost_per_click_special_cis_min:1.50,cost_per_click_special_app_min:1.00,cost_per_click_special_app_cis_min:1.00,cost_per_click_promoted_post_min:5.00,cost_per_click_max:100,cost_per_click_app_max:100,cost_per_click_big_app_max:800.00,cost_per_click_mobile_max:100,cost_per_click_special_max:100,cost_per_click_special_app_max:100,cost_per_click_promoted_post_max:150.00,cost_per_click_exclusive_min:8.00,cost_per_click_exclusive_cis_min:4.00,cost_per_click_exclusive_app_min:4.00,cost_per_click_exclusive_app_cis_min:2.00,cost_per_click_exclusive_max:200,cost_per_click_exclusive_app_max:200,cost_per_views_min:1.20,cost_per_views_cis_min:0.50,cost_per_views_app_min:0.35,cost_per_views_app_cis_min:0.25,cost_per_views_big_app_min:50.00,cost_per_views_mobile_min:30.00,cost_per_views_special_min:1.50,cost_per_views_special_cis_min:1.25,cost_per_views_special_app_min:1.50,cost_per_views_special_app_cis_min:0.50,cost_per_views_promoted_post_min:30.00,cost_per_views_max:20,cost_per_views_app_max:20,cost_per_views_big_app_max:800.00,cost_per_views_mobile_max:200,cost_per_views_special_max:200,cost_per_views_special_app_max:200,cost_per_views_promoted_post_max:1000.00,cost_per_views_exclusive_min:1.40,cost_per_views_exclusive_cis_min:1.00,cost_per_views_exclusive_app_min:0.70,cost_per_views_exclusive_app_cis_min:0.50,cost_per_views_exclusive_max:40,cost_per_views_exclusive_app_max:40,limit_min:100,limit_max:1000000000,budget_increase_rubles_min:500,budget_increase_votes_min:10,budget_increase_euro_min:100,budget_increase_dollars_min:100};
+
+Ads.init();
+if (typeof AdsPiwik !== 'undefined') {
+  AdsPiwik.init();
+}; TimeSpent && TimeSpent.setTimers && TimeSpent.setTimers(3000, 10000); TimeSpent && TimeSpent.update && TimeSpent.update(false);
+;(function (d, w) {
+if (w.__dev) {
+  return
+}
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);;if (browser.msie) stManager.add('pinbar.js', function() {window.initPinBar('id', 'im', {"left_mynews":"Moje Nowo&#347;ci","left_mymessages":"Moje Wiadomo&#347;ci","left_myfriends":"Moi Znajomi","left_mypage":"Moja Strona"});});
+    }
+  </script>
+</body>
+
+</html>
